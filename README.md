@@ -3,7 +3,7 @@
 Simple helper function to visualize molden files containing normal modes using `3Dmol.js` and
 `psi4`. 
 
-![Demonstration](./NormalModes.gif)
+![Demonstration](https://raw.githubusercontent.com/duerrsimon/normal-mode-jupyter/main/NormalMode.gif)
 
 # Installation
 
