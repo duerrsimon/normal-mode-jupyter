@@ -3,7 +3,7 @@
 Simple helper function to visualize molden files containing normal modes using `3Dmol.js` and
 `psi4`. 
 
-![Demonstration](./NormalModes.mov)
+![Demonstration](./NormalModes.gif)
 
 # Installation
 
